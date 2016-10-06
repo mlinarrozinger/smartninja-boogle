@@ -1,0 +1,80 @@
+#top-navbar {
+    position: fixed;
+    top:0px;
+    left: 0px;
+    width: 100%;
+    background-color: #2222;
+}
+#top-right-nav {
+    float: right;
+
+}
+
+.no-bullets {
+    margin: 0px;
+    padding: 0px;
+   
+}
+.no-bullets li {
+    list-style-type: none;
+    display: inline;
+                  
+    }
+#velikost-slike {
+    width: 32px;
+    height: 32px;
+    border-radius: 16px;
+}
+#bottom-navbar {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    background-color: #2222;
+    
+}
+#center {
+    height: 200px;
+    width: 480px;
+    margin: auto;
+    margin-top: 10%;
+    padding: 30px;
+    text-align: center;
+    
+}
+#center-div {
+    margin: auto;
+    height: 200px;
+    font-size: 96px;
+    font-family: Lucida Console;
+    font-weight: bold;
+}
+#center-div p {
+    margin: 0px;
+}
+#vpisno-okno {
+    width: 600px;
+    height: 40px;
+    border: 1px solid blue;
+    margin-left: -10%;
+    color: darkgray;
+    padding-left: 15px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+.modra {
+    color: blue;
+}
+.rdeca {
+    color: red;
+}
+.rumena {
+    color: yellow;
+}
+.zelena {
+    color: green;
+}
+a {
+     text-decoration: none;
+     font-family: sans-serif;
+}
