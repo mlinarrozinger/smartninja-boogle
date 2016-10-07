@@ -1,0 +1,100 @@
+#glava {
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+#boogle {
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+#podnaslov h2 {
+    text-align: center;
+    color: #555;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    }
+#capital {
+    font-size: 44px;
+}
+.modra {
+    color: blue;
+}
+.rdeca {
+    color: red;
+}
+.rumena {
+    color: yellow;
+}
+.zelena {
+    color: green;
+}
+
+
+
+#prijavna {
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 75px;
+    
+    
+}
+button {
+    height: 50px;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    color: white;
+    background-color: #4d90fe;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: Arial;
+    font-weight: 900;
+    font-size: 16px;
+    
+    
+}
+input {
+    height: 50px;
+    width: 280px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 0 0 10px;
+    position: relative;
+    border-radius: 5px;
+}
+#sredina {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    background-color: #f7f7f7;
+    padding: 40px;
+    border-radius: 5px;
+}
+a {
+    text-decoration: none;
+}
+#noga {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+#noga div {
+    margin-top: 15px;
+    font-family: Arial;
+}
